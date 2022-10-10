@@ -1,0 +1,55 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f3f3f3;
+}
+
+.block {
+    width: 200px;
+    height: 75px;
+    border-radius: 10px;
+    margin: 20px;
+    position: relative;
+}
+
+.block1 {
+    background: #ff5733;
+}
+
+.block2 {
+    background: #3393ff;
+}
+
+.block3 {
+    background: #33ff42;
+}
+
+.block4 {
+    background: #33fffc;
+}
+
+.block5 {
+    background: #ff33f6;
+}
+
+.block6 {
+    background: #30b851;
+}
+
+.block7 {
+    background: #303cb8;
+}
+
+.block8 {
+    background: #ec467b;
+    
+}
+
+.block9 {
+    background: #e2ec46;
+}
+
+.block10 {
+    background: #ff1737;
+}
